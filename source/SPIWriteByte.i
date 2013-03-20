@@ -1,0 +1,31 @@
+	SPIDOUT = spibit7;
+	SPICLOCK = 0;
+	SPICLOCK = 1;
+	
+	SPIDOUT = spibit6;
+	SPICLOCK = 0;
+	SPICLOCK = 1;
+	
+	SPIDOUT = spibit5;
+	SPICLOCK = 0;
+	SPICLOCK = 1;
+	
+	SPIDOUT = spibit4;
+	SPICLOCK = 0;
+	SPICLOCK = 1;
+	
+	SPIDOUT = spibit3;
+	SPICLOCK = 0;
+	SPICLOCK = 1;
+	
+	SPIDOUT = spibit2;
+	SPICLOCK = 0;
+	SPICLOCK = 1;
+	
+	SPIDOUT = spibit1;
+	SPICLOCK = 0;
+	SPICLOCK = 1;
+	
+	SPIDOUT = spibit0;
+	SPICLOCK = 0;
+	SPICLOCK = 1;
