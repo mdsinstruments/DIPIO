@@ -40,8 +40,8 @@ DeviceDscr:
       db   42H         						;; Device sub-class
       db   00H         						;; Device sub-sub-class
       db   64         						;; Maximum packet size
-      dw   0B404H     						;; Vendor ID
-      dw   3913H      						;; Product ID (Sample Device)
+      dw   0501DH     						;; Vendor ID
+      dw   6060H      						;; Product ID (Sample Device)
       dw   0000H      						;; Product version ID
       db   1         						;; Manufacturer string index
       db   2         						;; Product string index
